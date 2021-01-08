@@ -1,4 +1,4 @@
-### JInJung, InJung interpreter implemented in Java
+# JInJung, InJung interpreter implemented in Java
 
 InJung is the programming language that uses `ㅇ`, `ㅈ`, `ㅊ(<Message>)` only.
 
@@ -16,7 +16,7 @@ Notice: This program is only available on Linux CLI. If you want to use it in ot
 
 Download the release file, injung, and run it on the shell or tty, `./injung`. As you download through the web browser, default path is `/home/<YOURHOMEDIRECTORY>/Downloads/injung`.
 
-# Options
+## Options
 
 1. `./injung` Only: Run the interpreter on your shell. You can use Ctrl+C or D and typing `ㅈ` only to exit.
 
