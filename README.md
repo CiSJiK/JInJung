@@ -1,4 +1,4 @@
-###JInJung, InJung interpreter implemented in Java
+### JInJung, InJung interpreter implemented in Java
 
 InJung is the programming language that uses `ㅇ`, `ㅈ`, `ㅊ(<Message>)` only.
 
